@@ -3,3 +3,5 @@ My name is Rufat
 I love java
 
 Java is fun
+
+Coding is the best way to improve your java skill
