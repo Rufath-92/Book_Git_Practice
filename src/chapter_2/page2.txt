@@ -1,3 +1,5 @@
 My surname is Huseynov
 
 I love coding
+
+Java is fun
